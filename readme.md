@@ -2,7 +2,7 @@
 
 ### [Website](https://mclods-forkify.herokuapp.com/)
 
-**forkify** is a JavaScript API which can be used for discovering new food recipes. It is based on the [API](https://forkify-api.herokuapp.com/) for retrieving recipe data using AJAX.
+**forkify** is a JavaScript API which can be used for discovering new food recipes.
 
 👉  Special Thanks to [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/).	
 
