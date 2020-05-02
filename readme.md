@@ -25,10 +25,6 @@ npm install
 npm run start
 ```
 
-<img src="https://img.icons8.com/color/60/000000/javascript.png" style="padding: 5px; display: inline;">
-
-<img src="https://img.icons8.com/color/60/000000/nodejs.png" style="padding: 5px; display: inline;">  
-
-<img src="https://img.icons8.com/color/60/000000/npm.png" style="padding: 5px; display: inline;">
+![JavaScript](https://img.icons8.com/color/60/000000/javascript.png)  ![NodeJS](https://img.icons8.com/color/60/000000/nodejs.png)  ![npm](https://img.icons8.com/color/60/000000/npm.png)
 
 
