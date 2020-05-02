@@ -203,6 +203,9 @@ body {
   position: relative;
   display: inline-block;
 }
+  .warning:hover {
+    cursor: help;
+  }
   .warning p {
     color: white;
     font-size: 25px;
